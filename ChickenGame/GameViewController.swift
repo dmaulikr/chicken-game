@@ -1,11 +1,3 @@
-//
-//  GameViewController.swift
-//  ChickenGame
-//
-//  Created by Chen Jian on 22/07/2017.
-//  Copyright © 2017 myorg. All rights reserved.
-//
-
 import UIKit
 import SpriteKit
 import GameplayKit
